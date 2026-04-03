@@ -2,6 +2,14 @@
 
 Welcome to the support repository for [pypistats.com](https://pypistats.com) — enhanced Python package download analytics.
 
+## Documentation
+
+| Guide | Description |
+|-------|-------------|
+| [Getting Started](docs/getting-started.md) | Overview, quick reference, supported file formats |
+| [Stack Analyzer](docs/stack-analyzer.md) | Analyze your full dependency tree for health and security issues |
+| [GitHub App](docs/github-app.md) | Automatic dependency health checks on every pull request |
+
 ## Reporting Issues
 
 Found a bug or have a feature request? [Open an issue](../../issues/new) and include:
