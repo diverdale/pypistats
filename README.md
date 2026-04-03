@@ -9,6 +9,7 @@ Welcome to the support repository for [pypistats.com](https://pypistats.com) —
 | [Getting Started](docs/getting-started.md) | Overview, quick reference, supported file formats |
 | [Stack Analyzer](docs/stack-analyzer.md) | Analyze your full dependency tree for health and security issues |
 | [GitHub App](docs/github-app.md) | Automatic dependency health checks on every pull request |
+| [CLI](docs/cli.md) | Terminal tool for checking package stats and health scores |
 
 ## Reporting Issues
 
